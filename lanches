@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Bauru",
+    "foto": "https://edeciofernando.github.io/moveis/bauru.jpg",
+    "preco": 28.5,
+    "ingredientes": "Carne, tomate e queijo"
+  },
+  {
+    "id": 2,
+    "nome": "Xis Salada",
+    "foto": "https://edeciofernando.github.io/moveis/salada.jpg",
+    "preco": 24.5,
+    "ingredientes": "Bife, tomate e queijo"
+  },
+  {
+    "id": 3,
+    "nome": "Cachorro Quente",
+    "foto": "https://edeciofernando.github.io/moveis/cachorro.jpg",
+    "preco": 20.5,
+    "ingredientes": "Salchicha, tomate e queijo"
+  },
+  {
+    "id": 4,
+    "nome": "Sanduíche Vegano",
+    "foto": "https://edeciofernando.github.io/moveis/vegano.jpg",
+    "preco": 20.5,
+    "ingredientes": "Tomate, Queijo, Alface"
+  }
+]
